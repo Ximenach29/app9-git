@@ -60,30 +60,31 @@ input#volume{
 
 
 #buttons{
-	width:90%
-	diplay:block;
+	width:90%;
+	display:block;
 	margin:15px auto;
 	margin-left:23px;
-	overflow:auto;
+	overflow:auto
 }
 
 button#play{
 	width:70px;
 	height:70px;
-	background:url(../images/play.png)no-repeat;float:left;
+	background:url(../images/play.png) no-repeat; float:left;
 }
 
 button#pause{
 	width:70px;
 	height:70px;
-	background:url(../images/stop.png)no-repeat;float:left;
+	background:url(../images/pause.png) no-repeat; float:left;
 }
 
 button#stop{
-	width:70px;
+width:70px;
 	height:70px;
-	background:url(../images/stop.png)no-repeat;float:left;
+	background:url(../images/stop.png) no-repeat; float:left;
 }
+
 
 
 #playlist{
